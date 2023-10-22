@@ -2,3 +2,6 @@
 /bin
 /lib
 /venv/PlayTennis.csv
+/venv/Result
+/venv/Result.pdf
+/venv/teste.py
